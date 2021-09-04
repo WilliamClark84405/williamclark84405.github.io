@@ -43,8 +43,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Creating FLASH based web served base64 images
 
-```#include <WiFi.h>
-  #include <ESPAsyncWebServer.h>
+```
+#include <WiFi.h>
+#include <ESPAsyncWebServer.h>
 
 const char* ssid = "Ac56V3KlY-24";
 const char* password = "Pgh4CvB678MNb";
