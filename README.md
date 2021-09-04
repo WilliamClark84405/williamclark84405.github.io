@@ -47,8 +47,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 #include <WiFi.h>
 #include <ESPAsyncWebServer.h>
 
-const char* ssid = "Ac56V3KlY-24";
-const char* password = "Pgh4CvB678MNb";
+const char* ssid = "my-SSID";
+const char* password = "my-Password";
 
 AsyncWebServer server(80);
 
